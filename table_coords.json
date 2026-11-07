@@ -1,0 +1,166 @@
+{
+  "POT": {
+    "left": 990,
+    "top": 422,
+    "width": 73,
+    "height": 21
+  },
+  "BLINDS": {
+    "left": 1054,
+    "top": 606,
+    "width": 79,
+    "height": 16
+  },
+  "HERO_HAND": {
+    "left": 399,
+    "top": 186,
+    "width": 40,
+    "height": 31
+  },
+  "STACK_BOTTOM_MID": {
+    "left": 951,
+    "top": 779,
+    "width": 90,
+    "height": 25
+  },
+  "STACK_BOTTOM_LEFT": {
+    "left": 702,
+    "top": 766,
+    "width": 85,
+    "height": 24
+  },
+  "STACK_MID_LEFT": {
+    "left": 569,
+    "top": 581,
+    "width": 87,
+    "height": 28
+  },
+  "STACK_TOP_LEFT": {
+    "left": 639,
+    "top": 392,
+    "width": 77,
+    "height": 24
+  },
+  "STACK_TOP_MID_L": {
+    "left": 851,
+    "top": 342,
+    "width": 86,
+    "height": 26
+  },
+  "STACK_TOP_MID_R": {
+    "left": 1051,
+    "top": 343,
+    "width": 84,
+    "height": 26
+  },
+  "STACK_TOP_RIGHT": {
+    "left": 1269,
+    "top": 391,
+    "width": 83,
+    "height": 27
+  },
+  "STACK_MID_RIGHT": {
+    "left": 1334,
+    "top": 583,
+    "width": 92,
+    "height": 26
+  },
+  "STACK_BOTTOM_RIGHT": {
+    "left": 1196,
+    "top": 766,
+    "width": 102,
+    "height": 26
+  },
+  "BET_BOTTOM_MID": {
+    "left": 993,
+    "top": 628,
+    "width": 73,
+    "height": 27
+  },
+  "BET_TOP_LEFT": {
+    "left": 702,
+    "top": 459,
+    "width": 87,
+    "height": 32
+  },
+  "BET_MID_LEFT": {
+    "left": 697,
+    "top": 534,
+    "width": 91,
+    "height": 37
+  },
+  "BET_TOP_MID_L": {
+    "left": 894,
+    "top": 396,
+    "width": 72,
+    "height": 24
+  },
+  "BET_TOP_MID_R": {
+    "left": 1026,
+    "top": 397,
+    "width": 66,
+    "height": 24
+  },
+  "BET_TOP_RIGHT": {
+    "left": 1211,
+    "top": 461,
+    "width": 70,
+    "height": 27
+  },
+  "BET_MID_RIGHT": {
+    "left": 1213,
+    "top": 539,
+    "width": 64,
+    "height": 27
+  },
+  "BET_BOTTOM_RIGHT": {
+    "left": 1160,
+    "top": 615,
+    "width": 62,
+    "height": 24
+  },
+  "BET_BOTTOM_LEFT": {
+    "left": 762,
+    "top": 612,
+    "width": 73,
+    "height": 29
+  },
+  "POT_BOX": {
+    "left": 890,
+    "top": 418,
+    "width": 201,
+    "height": 30
+  },
+  "COMMUNITY_BOXES": [
+    {
+      "left": 855,
+      "top": 448,
+      "width": 50,
+      "height": 73
+    },
+    {
+      "left": 910,
+      "top": 450,
+      "width": 51,
+      "height": 70
+    },
+    {
+      "left": 965,
+      "top": 449,
+      "width": 52,
+      "height": 71
+    },
+    {
+      "left": 1020,
+      "top": 449,
+      "width": 52,
+      "height": 73
+    },
+    {
+      "left": 1075,
+      "top": 449,
+      "width": 53,
+      "height": 74
+    }
+  ]
+}

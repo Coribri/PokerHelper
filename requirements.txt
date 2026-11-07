@@ -1,0 +1,5 @@
+numpy>=2.0
+opencv-python>=4.10
+mss>=10
+PyQt5>=5.15
+pyinstaller>=6.0

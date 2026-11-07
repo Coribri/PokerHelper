@@ -1,0 +1,26 @@
+{
+  "hero_seat": 8,
+  "bb_cents": 10,
+  "pot_mode": "unknown",
+  "monitor": 1,
+  "reference_width": 1920,
+  "reference_height": 1080,
+  "offset_x": 0,
+  "offset_y": 0,
+  "stable_frames": 3,
+  "iterations": 1200,
+  "rake_pct": 0.0,
+  "rake_cap_cents": 0,
+  "dealer_seat": null,
+  "statuses": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+  ]
+}

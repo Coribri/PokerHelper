@@ -1,0 +1,45 @@
+# Private screenshots, cropped templates and image assets stay local.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
+*.ico
+templates/
+debug_crops/
+diagnostics/
+logs/
+backup_before_v2/
+
+# Generated output and local environment.
+build/
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.exe
+*.dll
+*.zip
+self_check_result.json
+last_diagnostic_state.json
+.publish/
+.DS_Store
+Thumbs.db
+
+# Legacy scripts may contain player names. Keep them local.
+11.py
+capture.py
+gto_engine.py
+interactive_click_labeler.py
+pot_calibrator.py
+table_state_tracker.py
+StakePokerHUD.spec
+README_V2.md
